@@ -17,7 +17,7 @@ Tujuan project: memberikan prediksi apakah sebuah trafik jaringan **Normal** ata
 | DestinationPort | Port tujuan                                    |
 | PacketCount     | Jumlah paket                                   |
 | ByteCount       | Jumlah byte                                    |
-| Label           | 0 = Normal, 1 = Anomali                        |
+| Label           | 1 = Normal, 0 = Anomali                        |
 
 ## Akurasi Model
 | Model                    | Accuracy | Precision | Recall | F1-Score |
